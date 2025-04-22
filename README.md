@@ -1,8 +1,4 @@
 <html>
-
-  <head>
-    <title>HTML စာသားများ</title>
-  </head>
   <body>
     <h1>ငါရဲ့ပထမဆုံး html website</h1>
     <p>ကျွန်တော် HTML code ရေးတာကို စသင်နေပါတယ်။</p>
